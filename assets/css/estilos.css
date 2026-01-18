@@ -1,7 +1,9 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+body { background-image: url("../img/naturaleza\ 1.png"); 
+  background-repeat: no-repeat;
+  background-size: cover; }
 /* Hero Section */
 
 #Hero-Section {
